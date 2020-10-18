@@ -22,3 +22,6 @@ Covering with Step-wise python coding in jupyter notebook.
 
 #8 Inference using the optimized 𝜃 values
  
+ 
+ 
+Reference: This project is a guided project from Coursera https://www.coursera.org/learn/linear-regression-numpy-python
